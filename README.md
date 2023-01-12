@@ -2,7 +2,7 @@
 
 This is a directory website intended to collect a list of pastenym instance
 
- ## Frontend
+## Frontend
 
 | Instance | Version | Backend nym-client |
 |---|---|:---|
