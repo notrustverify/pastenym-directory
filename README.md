@@ -2,6 +2,8 @@
 
 This is a directory website intended to collect a list of pastenym instance
 
+Add your instance by [forking](https://github.com/notrustverify/pastenym-directory/fork) the project and submit a [PR](https://github.com/notrustverify/pastenym-directory/pulls)
+
 ## Frontend
 
 | Instance | Version | Country | Backend nym-client |
