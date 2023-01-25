@@ -10,7 +10,7 @@ Add your instance by [forking](https://github.com/notrustverify/pastenym-directo
 |---|---|---|:---|
 | [https://pastenym.mynixnode.com](http://pastenym.mynixnode.com) | 1.2.9  | Switzerland | HWm3757chNdBq9FzKEY9j9VJ5siRxH8ukrNqYwFp9Unp.<br/> D34iYLRd5vzpCU4nZRcFVmoZpTQQMa6mws4Q65LdRosi@<br/> Fo4f4SQLdoyoGkFae5TpVhRVoXCF8UiypLVGtGjujVPf
 | [https://node4u.net](https://node4u.net) | 1.2.9 | - | HWm3757chNdBq9FzKEY9j9VJ5siRxH8ukrNqYwFp9Unp.<br/> D34iYLRd5vzpCU4nZRcFVmoZpTQQMa6mws4Q65LdRosi@<br/> Fo4f4SQLdoyoGkFae5TpVhRVoXCF8UiypLVGtGjujVPf
-| [https://pastenym.ch](https://pastenym.ch) | 1.2.10  | - | HWm3757chNdBq9FzKEY9j9VJ5siRxH8ukrNqYwFp9Unp.<br/> D34iYLRd5vzpCU4nZRcFVmoZpTQQMa6mws4Q65LdRosi@<br/> Fo4f4SQLdoyoGkFae5TpVhRVoXCF8UiypLVGtGjujVPf 
+| [https://pastenym.ch](https://pastenym.ch) | 1.4.0  | - | HWm3757chNdBq9FzKEY9j9VJ5siRxH8ukrNqYwFp9Unp.<br/> D34iYLRd5vzpCU4nZRcFVmoZpTQQMa6mws4Q65LdRosi@<br/> Fo4f4SQLdoyoGkFae5TpVhRVoXCF8UiypLVGtGjujVPf 
 
 ## Backend
 
